@@ -2,5 +2,6 @@
 A repository for the SWENG Calculator for Assignment 1
  Group members:
  
- MOETO SONODA
- ANDREY YAMKOVOY
+  MOETO SONODA
+ 
+  ANDREY YAMKOVOY
